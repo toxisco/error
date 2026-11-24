@@ -1,7 +1,12 @@
-
 {
   "enabled": true,
   "minimumVersion": "1.55",
-  "message": "version is obsolete",
-  "licenses": []
+  "licenses": [
+    {
+      "id": "admin",
+      "hash": "d4a931ed55c29f6e6a1fea407b2b871802ce1636a360428a675911cbee058ca0",
+      "active": true,
+      "expiresAt": "2027-12-31T23:59:59Z"
+    }
+  ]
 }
